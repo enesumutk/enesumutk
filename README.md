@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @enesumutk
 - 👀 I’m interested in software 
-- 🌱 I’m currently learning html5, css, javascript and php
+- 🌱 I’m currently learning html, css, javascript and php
 - 📫 How to reach me umutkose31148@gmail.com
 
 <!---
